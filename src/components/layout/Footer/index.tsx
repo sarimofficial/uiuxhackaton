@@ -105,7 +105,7 @@ const Footer = () => {
             <p className="text-sm text-center sm:text-left text-black/60 mb-4 sm:mb-0 sm:mr-1">
                ©Shop.co © 2000-2025, All Rights Reserved
               <Link
-                href="https://github.com/umerfakih56"
+                href="https://github.com/sarimofficial"
                 className="text-black font-medium"
               >
                  Muhammad Sarim
